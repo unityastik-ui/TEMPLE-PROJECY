@@ -1,0 +1,10 @@
+{
+  "name": "Remix Smart Temple Explorer",
+  "description": "A simple guide to sacred places — Shirdi Sai Baba Temple visitor guide developed by RGBA Infotech Solutions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
